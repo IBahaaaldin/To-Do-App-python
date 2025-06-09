@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Python Exam",
+        "priority": 3,
+        "due_date": "2025-6-11",
+        "completed": false
+    },
+    {
+        "title": "Quiz",
+        "priority": 2,
+        "due_date": "2025-6-20",
+        "completed": false
+    },
+    {
+        "title": "Study",
+        "priority": 4,
+        "due_date": "2025-6-8",
+        "completed": false
+    },
+    {
+        "title": "Gym",
+        "priority": 5,
+        "due_date": "2025-6-9",
+        "completed": false
+    },
+    {
+        "title": "Gaming",
+        "priority": 1,
+        "due_date": "2025-6-10",
+        "completed": false
+    }
+]
