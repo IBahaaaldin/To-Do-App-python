@@ -1,6 +1,6 @@
 # ✅ Ultimate To-Do List (Python Version)
 
-![Python To-Do List Banner](assets/python_project_banner.png)
+![Python To-Do List Banner](assets/python_project_banner.jpg)
 
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -64,8 +64,8 @@ todo-list-python/
 │   └── todo_gui.py                     # Tkinter-based GUI app
 │
 ├── assets/                             # Visuals used in documentation
-│   ├── python_project_banner.png       # Project header image in README.md
-│   └── gui_preview.png                 # Screenshot of the GUI
+│   ├── python_project_banner.jpg       # Project header image in README.md
+│   └── gui_preview.jpg                 # Screenshot of the GUI
 │
 ├── tasks.json                          # Persistent JSON task file
 ├── LICENSE                             # MIT license
