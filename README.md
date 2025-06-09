@@ -51,7 +51,7 @@ The **Ultimate To-Do List** is a project for users who want to:
 
 ## 📷 GUI Screenshot
 
-![GUI Preview](assets/GUI_preview.png)
+![GUI Preview](assets/GUI_preview.jpg)
 
 ---
 
